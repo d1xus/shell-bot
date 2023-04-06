@@ -42,7 +42,7 @@ sudo dnf group install -y "C Development Tools and Libraries"
 
 Before using this, you should have obtained an auth token for your bot,
 and know your personal user's numeric ID. If you don't know what this
-means, check out the [blog post][] for a full step-by-step guide.
+means, check out the blog post for a full step-by-step guide.
 
 ~~~
 git clone https://github.com/d1xus/shell-bot.git && cd shell-bot
